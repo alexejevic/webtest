@@ -1,0 +1,158 @@
+* 
+	{
+		margin: 0;
+		padding: 0;
+	}
+body 
+	{
+		background-color: white;
+		font-family: "Calibri","sans-serif";
+		color:#000;
+	}
+p {
+    line-height: 2em;
+    margin: 30px 300px;
+    font-size: 35px;
+    text-align: center;
+}
+a
+	{
+		text-decoration :none;
+		color :#FFF;
+	}
+
+header 
+	{
+		height: 120px;
+		
+	}
+header h1 
+	{
+		color:black; 
+		font-size: 50px;
+		margin-top:100px ;
+		margin-left:200px;
+	}
+header nav 
+	{
+		font-size: 2em;
+		background-color: #333;
+		border-bottom: 2px solid #111;
+		text-align: center;
+		font-family:serif;
+
+	}
+header nav a
+	{
+		display: inline-block;
+		padding: 10px 100px;
+		text-decoration: none;
+		color:white;
+	}
+header nav a.uns:hover
+	{
+		color:#000;
+	}
+header nav a.sel
+	{
+		background-color: #222;
+	}
+navi
+	{
+		position: fixed; 
+		left: 0;
+		top: 150px;
+		width: 100px;
+		padding: 100px 15px;
+		text-align: right;
+		background-color: #444;
+		border-radius:0px 20px 20px 0px;
+	}
+navi li
+	{
+		font-size: 20px;
+		list-style: none;
+		padding: 30px 30px 30px 3px;
+		font-size:25px;
+	}
+navi li a:hover
+	{
+		color:#000;
+	}
+
+.dwn
+	{
+		position: absolute; 
+	}
+footer
+	{
+		height:50px;
+		width:100%;
+		bottom: 0;
+		background-color:#333;
+		text-align:center;
+		padding:15px 0px 15px 0px;
+		font-size:50px;
+	}
+.bc
+	{
+		font-size:60px;
+		text-align:center;
+	}
+h1
+	{
+		font-size:60px;
+		margin-left:500px;
+		font-family: "Calibri","sans-serif";
+	}
+.dop img
+	{
+		display:block;
+		width: 900px;
+		margin: auto;
+		padding-top: 100px;
+		padding-bottom: 100px;
+	}
+.dop
+	{
+		text-align:center;
+	}
+.zdo a
+	{
+		color:#000;
+		line-height: 2em;
+		margin:200px;
+		font-size: 35px;
+	}
+.zdo a:hover
+	{
+		color:#AAA;
+	}
+h2
+	{
+		text-align:center;
+		font-size:50px;
+		font-family: "Calibri-light","sans-serif";
+		margin-top: 150px;
+
+	}
+.bl
+	{
+		text-align:center;
+		font-size:50px;
+		font-family: "Calibri-light","sans-serif";
+		color: black;
+	}
+h3
+	{
+		text-align:left;
+		font-size:40px;
+		font-family: "Calibri-light","sans-serif";
+		margin-left:500px;
+		margin-top: 150px;
+	}
+	
+	
+	
+	
+	
