@@ -143,6 +143,10 @@ h2
 		font-family: "Calibri-light","sans-serif";
 		color: black;
 	}
+.bl a:hover
+	{
+		color: #444;
+	}
 h3
 	{
 		text-align:left;
